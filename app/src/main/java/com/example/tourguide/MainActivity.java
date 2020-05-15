@@ -2,6 +2,7 @@ package com.example.tourguide;
 
 import androidx.appcompat.app.AppCompatActivity;
 import androidx.viewpager.widget.ViewPager;
+import com.google.android.material.tabs.TabLayout;
 
 import android.os.Bundle;
 

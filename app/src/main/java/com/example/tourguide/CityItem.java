@@ -9,22 +9,22 @@ public class CityItem {
     private String mAddress;
 
     // ID of the image resource
-    private int mImageResourceID;
+    private int mImageResourceID = NO_IMAGE_PROVIDED;
 
     // Constant value that represents no image was provided for this item
     private static final int NO_IMAGE_PROVIDED = -1;
+
+    // Constructor for the items without image
+    public CityItem(String name, String address){
+        mName = name;
+        mAddress = address;
+    }
 
     // Constructor for the items with image
     public CityItem(String name, String address, int imageResourceID){
         mName = name;
         mAddress = address;
         mImageResourceID = imageResourceID;
-    }
-
-    // Constructor for the items without image
-    public CityItem(String name, String address){
-        mName = name;
-        mAddress = address;
     }
 
     // Get the name of the city item

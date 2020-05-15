@@ -1,3 +1,36 @@
 <resources>
     <string name="app_name">Tour Guide</string>
+
+    <!-- Titles of the different categories -->
+    <string name="category_attractions">Sights</string>
+    <string name="category_museums">Museums</string>
+    <string name="category_parks">Parks</string>
+    <string name="category_restaurants">Eating</string>
+
+    <!-- List of attractions -->
+    <string name="attraction_name_1">Kölner Dom</string>
+    <string name="attraction_address_1">Domkloster 4, 50667</string>
+    <string name="attraction_name_2">Hohenzollern Bridge</string>
+    <string name="attraction_address_2">Rhine River, 50679</string>
+    <string name="attraction_name_3">Dufthaus 4711</string>
+    <string name="attraction_address_3">Glockengasse 4, 50667</string>
+    <string name="attraction_name_4">Duftmuseum im Farina Haus</string>
+    <string name="attraction_address_4">Obenmarspforten 21, 50667</string>
+    <string name="attraction_name_5">Bismarckturm Köln</string>
+    <string name="attraction_address_5">Bayenthalgürtel 5, 50968</string>
+    <string name="attraction_name_6">Cologne Central Station</string>
+    <string name="attraction_address_6">Trankgasse 11, 50667</string>
+    <string name="attraction_name_7"></string>
+    <string name="attraction_address_7"></string>
+    <string name="attraction_name_8"></string>
+    <string name="attraction_address_8"></string>
+
+    <!-- List of parks -->
+
+    <!-- List of museums -->
+
+    <!-- List of restaurants -->
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
 </resources>
