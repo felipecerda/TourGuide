@@ -20,17 +20,63 @@
     <string name="attraction_address_5">Bayenthalgürtel 5, 50968</string>
     <string name="attraction_name_6">Cologne Central Station</string>
     <string name="attraction_address_6">Trankgasse 11, 50667</string>
-    <string name="attraction_name_7"></string>
-    <string name="attraction_address_7"></string>
-    <string name="attraction_name_8"></string>
-    <string name="attraction_address_8"></string>
+    <string name="attraction_name_7">Köln Zoo/Flora</string>
+    <string name="attraction_address_7">50735 Cologne</string>
+    <string name="attraction_name_8">Hahnen Gate</string>
+    <string name="attraction_address_8">Rudolfpl. 1, 50674</string>
 
     <!-- List of parks -->
+    <string name="park_name_1">Rheinpark</string>
+    <string name="park_address_1">Auenweg Rheinpark, 50679</string>
+    <string name="park_name_2">Theodor-Heuss Park</string>
+    <string name="park_address_2">50668 Cologne</string>
+    <string name="park_name_3">Hiroshima-Nagasaki Park</string>
+    <string name="park_address_3">Universitätsstraße 22a, 50923</string>
+    <string name="park_name_4">Volksgarten</string>
+    <string name="park_address_4">Eifelstraße, 50677</string>
+    <string name="park_name_5">Vorgebirgs Park</string>
+    <string name="park_address_5">Nauheimer Str. 15, 50969</string>
+    <string name="park_name_6">Lindenthaler Tier Park</string>
+    <string name="park_address_6">Marcel-Proust-Promenade 1, 50935</string>
+    <string name="park_name_7">Innerer Grüngürtel</string>
+    <string name="park_address_7">50672 Cologne</string>
+    <string name="park_name_8">Friedens Park</string>
+    <string name="park_address_8">Hans-Abraham-Ochs-Weg 1, 50678</string>
 
     <!-- List of museums -->
+    <string name="museum_name_1"></string>
+    <string name="museum_address_1"></string>
+    <string name="museum_name_2"></string>
+    <string name="museum_address_2"></string>
+    <string name="museum_name_3"></string>
+    <string name="museum_address_3"></string>
+    <string name="museum_name_4"></string>
+    <string name="museum_address_4"></string>
+    <string name="museum_name_5"></string>
+    <string name="museum_address_5"></string>
+    <string name="museum_name_6"></string>
+    <string name="museum_address_6"></string>
+    <string name="museum_name_7"></string>
+    <string name="museum_address_7"></string>
+    <string name="museum_name_8"></string>
+    <string name="museum_address_8"></string>
 
     <!-- List of restaurants -->
+    <string name="restaurant_name_1"></string>
+    <string name="restaurant_address_1"></string>
+    <string name="restaurant_name_2"></string>
+    <string name="restaurant_address_2"></string>
+    <string name="restaurant_name_3"></string>
+    <string name="restaurant_address_3"></string>
+    <string name="restaurant_name_4"></string>
+    <string name="restaurant_address_4"></string>
+    <string name="restaurant_name_5"></string>
+    <string name="restaurant_address_5"></string>
+    <string name="restaurant_name_6"></string>
+    <string name="restaurant_address_6"></string>
+    <string name="restaurant_name_7"></string>
+    <string name="restaurant_address_7"></string>
+    <string name="restaurant_name_8"></string>
+    <string name="restaurant_address_8"></string>
 
-    <!-- TODO: Remove or change this placeholder text -->
-    <string name="hello_blank_fragment">Hello blank fragment</string>
 </resources>
