@@ -44,39 +44,39 @@
     <string name="park_address_8">Hans-Abraham-Ochs-Weg 1, 50678</string>
 
     <!-- List of museums -->
-    <string name="museum_name_1"></string>
-    <string name="museum_address_1"></string>
-    <string name="museum_name_2"></string>
-    <string name="museum_address_2"></string>
-    <string name="museum_name_3"></string>
-    <string name="museum_address_3"></string>
-    <string name="museum_name_4"></string>
-    <string name="museum_address_4"></string>
-    <string name="museum_name_5"></string>
-    <string name="museum_address_5"></string>
-    <string name="museum_name_6"></string>
-    <string name="museum_address_6"></string>
-    <string name="museum_name_7"></string>
-    <string name="museum_address_7"></string>
-    <string name="museum_name_8"></string>
-    <string name="museum_address_8"></string>
+    <string name="museum_name_1">Cologne Chocolate Museum</string>
+    <string name="museum_address_1">Am Schokoladenmuseum 1A, 50678</string>
+    <string name="museum_name_2">Deutsches Sport and Olympia Museum</string>
+    <string name="museum_address_2">Im Zollhafen 1, 50678</string>
+    <string name="museum_name_3">EL-DE Haus</string>
+    <string name="museum_address_3">Appellhofpl. 23-25, 50667</string>
+    <string name="museum_name_4">Museum Ludwig</string>
+    <string name="museum_address_4">Heinrich-Böll-Platz, 50667</string>
+    <string name="museum_name_5">Roman-Germanic Museum</string>
+    <string name="museum_address_5">Roncalliplatz 4, 50667</string>
+    <string name="museum_name_6">Kölnisches Stadtmuseum</string>
+    <string name="museum_address_6">Zeughausstraße 1-3, 50667</string>
+    <string name="museum_name_7">Wallraf-Richartz Museum</string>
+    <string name="museum_address_7">Obenmarspforten 40, 50667</string>
+    <string name="museum_name_8">Museum for East-Asian Arts</string>
+    <string name="museum_address_8">Universitätsstraße 100, 50674</string>
 
     <!-- List of restaurants -->
-    <string name="restaurant_name_1"></string>
-    <string name="restaurant_address_1"></string>
-    <string name="restaurant_name_2"></string>
-    <string name="restaurant_address_2"></string>
-    <string name="restaurant_name_3"></string>
-    <string name="restaurant_address_3"></string>
-    <string name="restaurant_name_4"></string>
-    <string name="restaurant_address_4"></string>
-    <string name="restaurant_name_5"></string>
-    <string name="restaurant_address_5"></string>
-    <string name="restaurant_name_6"></string>
-    <string name="restaurant_address_6"></string>
-    <string name="restaurant_name_7"></string>
-    <string name="restaurant_address_7"></string>
-    <string name="restaurant_name_8"></string>
-    <string name="restaurant_address_8"></string>
+    <string name="restaurant_name_1">Supasalad</string>
+    <string name="restaurant_address_1">Friesenwall 81, 50672</string>
+    <string name="restaurant_name_2">VAPIANO</string>
+    <string name="restaurant_address_2">Im Zollhafen 2-4, 50678</string>
+    <string name="restaurant_name_3">Brauerei zur Malzmühle</string>
+    <string name="restaurant_address_3">Heumarkt 6, 50667</string>
+    <string name="restaurant_name_4">Hard Rock Cafe</string>
+    <string name="restaurant_address_4">Gürzenichstraße 8, 50667</string>
+    <string name="restaurant_name_5">L Osteria</string>
+    <string name="restaurant_address_5">Hahnenstraße 37, 50667</string>
+    <string name="restaurant_name_6">Früh am Dom</string>
+    <string name="restaurant_address_6">Am Hof 12-18, 50667</string>
+    <string name="restaurant_name_7">Sion Kölsch</string>
+    <string name="restaurant_address_7">Bergisch Gladbacher Str. 116-134, 51066</string>
+    <string name="restaurant_name_8">Löwenbräu Hotel und Restaurant </string>
+    <string name="restaurant_address_8">Frankenwerft 21, 50667</string>
 
 </resources>
