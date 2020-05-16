@@ -30,13 +30,13 @@ public class AttractionsFragment extends Fragment {
         final ArrayList<CityItem> attractions = new ArrayList<CityItem>();
 
         attractions.add(new CityItem(getString(R.string.attraction_name_1), getString(R.string.attraction_address_1), R.drawable.att_dom));
-        attractions.add(new CityItem(getString(R.string.attraction_name_2), getString(R.string.attraction_address_2)));
-        attractions.add(new CityItem(getString(R.string.attraction_name_3), getString(R.string.attraction_address_3)));
-        attractions.add(new CityItem(getString(R.string.attraction_name_4), getString(R.string.attraction_address_4)));
-        attractions.add(new CityItem(getString(R.string.attraction_name_5), getString(R.string.attraction_address_5)));
-        attractions.add(new CityItem(getString(R.string.attraction_name_6), getString(R.string.attraction_address_6)));
-        attractions.add(new CityItem(getString(R.string.attraction_name_7), getString(R.string.attraction_address_7)));
-        attractions.add(new CityItem(getString(R.string.attraction_name_8), getString(R.string.attraction_address_8)));
+        attractions.add(new CityItem(getString(R.string.attraction_name_2), getString(R.string.attraction_address_2), R.drawable.hohenzollern_bridge));
+        attractions.add(new CityItem(getString(R.string.attraction_name_3), getString(R.string.attraction_address_3), R.drawable.cologne_4711));
+        attractions.add(new CityItem(getString(R.string.attraction_name_4), getString(R.string.attraction_address_4), R.drawable.farina));
+        attractions.add(new CityItem(getString(R.string.attraction_name_5), getString(R.string.attraction_address_5), R.drawable.bismarckturm));
+        attractions.add(new CityItem(getString(R.string.attraction_name_6), getString(R.string.attraction_address_6), R.drawable.station));
+        attractions.add(new CityItem(getString(R.string.attraction_name_7), getString(R.string.attraction_address_7), R.drawable.zoo));
+        attractions.add(new CityItem(getString(R.string.attraction_name_8), getString(R.string.attraction_address_8), R.drawable.hahnen));
 
         CityItemAdapter adapter = new CityItemAdapter(getActivity(), attractions, R.color.clear_background);
 
